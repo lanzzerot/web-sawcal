@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator | Sawcal</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <!-- Incluir la librería jsPDF -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+    <section class="maincontainer">
+        <div class="container">
+            <div class="card1"> 
+                <img id="logosmall" src="/src/images/Layer 2@2x.png" alt="">
+                <form action="">
+                    <label>Ingresa el grosor<br></label>
+                    <input id="grosor" type="text"><br>
+                    <label>Ingresa el ancho<br></label>
+                    <input id="ancho" type="text">
+                    <label>Ingresa el alto<br></label>
+                    <input id="alto" type="text">
+                    <label>Precio del pie<br></label>
+                    <input id="preciopie" type="text">
+                    <label>Ingresa la cantidad<br></label>
+                    <input id="cantidad" type="text">
+                    <label id="agregar" onclick="agregarProducto()" class="label-button">Agregar Producto</label>
+                </form>
+            </div>
+
+            <div class="card2">
+                <h3>Historial de agregados</h3>
+                <article class="card-articles"></article>
+                <h3>Monto Total</h3>
+                <div id="detalles"></div>
+                <label id="generarFactura" onclick="generarFacturaPDF()" class="label-button">Descgar factura</label>
+            </div>
+        </div>
+        <div class="container2">
+            <div class="card3">
+                <img id="logolarge" src="/src/images/Group.png" alt="">
+            </div>
+        </div>
+    </section>
+</body>
+</html>
