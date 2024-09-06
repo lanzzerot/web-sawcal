@@ -1,4 +1,4 @@
-# sawcal
+# Sawcal
 
 Sawcal es la solución avanzada para la gestión de ventas en el sector de aserraderos. Diseñada para simplificar y optimizar el proceso de venta, Sawcal te permite gestionar pedidos, generar cotizaciones, y seguir el estado de las ventas de manera eficiente. Con herramientas intuitivas y funciones especializadas, Sawcal facilita la administración de transacciones, el seguimiento de clientes y la generación de informes detallados. Impulsa tu negocio de aserradero con una plataforma que te ayuda a aumentar la eficiencia, mejorar la satisfacción del cliente y maximizar tus ingresos.
 
