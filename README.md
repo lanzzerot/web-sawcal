@@ -2,5 +2,12 @@
 
 Sawcal es la solución avanzada para la gestión de ventas en el sector de aserraderos. Diseñada para simplificar y optimizar el proceso de venta, Sawcal te permite gestionar pedidos, generar cotizaciones, y seguir el estado de las ventas de manera eficiente. Con herramientas intuitivas y funciones especializadas, Sawcal facilita la administración de transacciones, el seguimiento de clientes y la generación de informes detallados. Impulsa tu negocio de aserradero con una plataforma que te ayuda a aumentar la eficiencia, mejorar la satisfacción del cliente y maximizar tus ingresos.
 
+##Características
+
+    Gestión de Ventas: Administra pedidos y transacciones de manera eficiente.
+    Generación de Cotizaciones: Crea y envía cotizaciones personalizadas a tus clientes.
+    Seguimiento de Clientes: Mantén un registro detallado de tus clientes y sus interacciones.
+    Informes Detallados: Genera informes sobre ventas, ingresos y otras métricas importantes.
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
