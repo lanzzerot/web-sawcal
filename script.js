@@ -121,6 +121,11 @@ function generarFacturaPDF() {
     doc.setFont("helvetica", "bold");
     doc.setFontSize(10); // Tamaño de fuente para el monto total
     doc.text(`Monto Total: RD$${montoTotal.toFixed(2)}`, margenIzq, y);
+    y += 4;
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(7); // Tamaño de fuente para el monto total
+    doc.text(`Creador del sistema Ramger Duran (849-281-1452)`, margenIzq, y);
 
     // Ajusta la posición vertical para evitar mucho espacio en blanco
     const alturaFinal = alturaContenido + margenInferior;
